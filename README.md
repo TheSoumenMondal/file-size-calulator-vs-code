@@ -8,6 +8,8 @@ Size Calculator adds a live status bar indicator that reports the total size of 
 - Shows a detailed breakdown per workspace folder through the command palette or the status bar command.
 - Debounces file events to avoid running multiple calculations while you are actively editing files.
 
+![Workspace size indicator showing total size in the VS Code status bar](https://github.com/user-attachments/assets/1d912463-8fbd-47d7-b48c-bbf01dbb6c93)
+
 ## Getting Started
 1. Install the extension from the VS Code Marketplace or side-load the packaged `.vsix`.
 2. Open a folder or multi-root workspace. The indicator appears in the status bar once initialization completes.
